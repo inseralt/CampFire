@@ -1,0 +1,173 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+FontAwesomeIcon:hover {
+	-fx-cursor: hand;
+}
+
+#clock {
+	-fx-text-fill: white ;
+}
+
+.label {
+	-fx-text-fill: white ;
+}
+
+.button{
+	-fx-min-width:50 ;
+	-fx-min-height:20 ;
+}
+
+.choice-box .label {
+     -fx-text-fill: black; 
+}
+
+#Button_Remove_id{
+	-fx-font-family: "Helvetica Neue";
+	-fx-text-fill: white ;
+	-fx-background-radius: 2;
+	-fx-padding: 0.0 ;
+}
+
+/*
+#Button_Remove_id:hover {
+	-fx-font-family: "Helvetica Neue";
+	-fx-text-fill: black;
+}
+*/
+
+#Button_new {
+	-fx-font-family: "Helvetica Neue";
+	-fx-text-fill: white;
+	-fx-background-radius: 2;
+	-fx-padding: 0.0 ;
+}
+
+/*
+#Button_new:hover {
+	-fx-font-family: "Helvetica Neue";
+	-fx-text-fill: black;
+}
+*/
+#Button_remove{
+	-fx-font-family: "Helvetica Neue";
+	-fx-text-fill: white ;
+	-fx-background-radius: 2;
+	-fx-padding: 0.0 ;
+}
+
+/*
+#Button_remove:hover {
+	-fx-font-family: "Helvetica Neue";
+	-fx-text-fill: black;
+}
+*/
+
+#Button_Add_New{
+	-fx-font-family: "Helvetica Neue";
+	-fx-text-fill: white ;
+	-fx-background-radius: 2;
+	-fx-padding: 0.0 ;
+}
+/*
+#Button_Add_New:hover {
+	-fx-font-family: "Helvetica Neue";
+	-fx-text-fill: black;
+}
+*/
+
+#Button_setting{
+	-fx-font-family: "Helvetica Neue";
+	-fx-text-fill: white ;
+	-fx-background-radius: 2;
+	-fx-padding: 0.0 ;
+}
+
+/* 
+#Button_setting:hover {
+	-fx-font-family: "Helvetica Neue";
+	-fx-text-fill: black;
+}
+*/
+
+#TextField1{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField2{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField3{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField4{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField5{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField6{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField7{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField8{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField9{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField10{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField11{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField12{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField13{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField14{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField15{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField16{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField17{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField18{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField19{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+#TextField20{
+	-fx-text-fill: white ;
+	-fx-padding: 0.0 ;
+}
+
